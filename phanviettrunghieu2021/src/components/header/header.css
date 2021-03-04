@@ -1,0 +1,22 @@
+.header {
+  height: 80px;
+  border: 5px solid black;
+  font-size: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.header_left {
+  padding: 15px;
+}
+.header_center {
+  padding: 15px 25px 0px 25px;
+  border-right: 5px solid black;
+  border-left: 5px solid black;
+  background: rgb(212, 214, 214);
+}
+.header_right {
+  display: flex;
+}
+.header_right_span {
+  padding: 15px 15px 0px 10px;
+}
